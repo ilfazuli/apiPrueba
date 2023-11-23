@@ -1,0 +1,422 @@
+{
+  "estudiante": [
+    {
+      "id": 1,
+      "Nombres": "Antonio",
+      "Apellidos": "Montana",
+      "Contrasena": "antonio",
+      "usuario": "Amontana.alumno",
+      "seccion": "005D",
+      "Carrera": "Ingenieria en informatica",
+      "Role": "alumno",
+      "asignaturas": [
+        {
+          "id": 1,
+          "Nombre": "Estadistica descriptiva",
+          "Sigla": "EDS001D",
+          "Seccion": "001D"
+        },
+        {
+          "id": 4,
+          "Nombre": "Programacion de aplicaciones moviles",
+          "Sigla": "PAM004D",
+          "Seccion": "004D"
+        },
+        {
+          "id": 6,
+          "Nombre": "Calidad de software",
+          "Sigla": "CDS006D",
+          "Seccion": "006D"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Nombres": "Barbara ",
+      "Apellidos": "Millicent Roberts",
+      "Contrasena": "barbara",
+      "usuario": "Bmillcent.alumno",
+      "seccion": "004V",
+      "Carrera": "Ingenieria en informatica",
+      "Role": "alumno",
+      "asignaturas": [
+        {
+          "id": 5,
+          "Nombre": "Formacion Cristiana",
+          "Sigla": "PFC005D",
+          "Seccion": "005D"
+        },
+        {
+          "id": 3,
+          "Nombre": "Ciberseguridad",
+          "Sigla": "CS003D",
+          "Seccion": "003D"
+        },
+        {
+          "id": 2,
+          "Nombre": "Programacion web",
+          "Sigla": "PRW002D",
+          "Seccion": "002D"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Nombres": "thomas A",
+      "Apellidos": "Anderson",
+      "Contrasena": "thomas",
+      "usuario": "Tamnderson.alumno",
+      "seccion": "004D",
+      "Carrera": "Telecomunicaciones",
+      "Role": "alumno",
+      "asignaturas": [
+        {
+          "id": 6,
+          "Nombre": "Calidad de software",
+          "Sigla": "CDS006D",
+          "Seccion": "006D"
+        },
+        {
+          "id": 4,
+          "Nombre": "Programacion de aplicaciones moviles",
+          "Sigla": "PAM004D",
+          "Seccion": "004D"
+        },
+        {
+          "id": 1,
+          "Nombre": "Estadistica descriptiva",
+          "Sigla": "EDS001D",
+          "Seccion": "001D"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "Nombres": "Keanu ",
+      "Apellidos": "Reeves",
+      "Contrasena": "keanu",
+      "usuario": "Kreeves.alumno",
+      "seccion": "004D",
+      "Carrera": "Ingenieria en informatica",
+      "Role": "alumno",
+      "asignaturas": [
+        {
+          "id": 2,
+          "Nombre": "Programacion web",
+          "Sigla": "PRW002D",
+          "Seccion": "002D"
+        },
+        {
+          "id": 4,
+          "Nombre": "Programacion de aplicaciones moviles",
+          "Sigla": "PAM004D",
+          "Seccion": "004D"
+        },
+        {
+          "id": 6,
+          "Nombre": "Calidad de software",
+          "Sigla": "CDS006D",
+          "Seccion": "006D"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "Nombres": "Eric Theodore",
+      "Apellidos": "Cartman",
+      "Contrasena": "eric",
+      "usuario": "Ecartman.alumno",
+      "seccion": "005D",
+      "Carrera": "Telecomunicaciones",
+      "Role": "alumno",
+      "asignaturas": [
+        {
+          "id": 5,
+          "Nombre": "Formacion Cristiana",
+          "Sigla": "PFC005D",
+          "Seccion": "005D"
+        },
+        {
+          "id": 3,
+          "Nombre": "Ciberseguridad",
+          "Sigla": "CS003D",
+          "Seccion": "003D"
+        },
+        {
+          "id": 1,
+          "Nombre": "Estadistica descriptiva",
+          "Sigla": "EDS001D",
+          "Seccion": "001D"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "Nombres": "Thomas",
+      "Apellidos": "Edison",
+      "Contrasena": "thomas",
+      "usuario": "Tedison.alumno",
+      "seccion": "006V",
+      "Carrera": "Telecomunicaciones",
+      "Role": "alumno",
+      "asignaturas": [
+        {
+          "id": 1,
+          "Nombre": "Estadistica descriptiva",
+          "Sigla": "EDS001D",
+          "Seccion": "001D"
+        },
+        {
+          "id": 5,
+          "Nombre": "Formacion Cristiana",
+          "Sigla": "PFC005D",
+          "Seccion": "005D"
+        },
+        {
+          "id": 6,
+          "Nombre": "Calidad de software",
+          "Sigla": "CDS006D",
+          "Seccion": "006D"
+        }
+      ]
+    },
+    {
+      "nombreUsuario": "Bmillcent.alumno",
+      "contrasenaActual": "barbara",
+      "nuevaContrasena": "barbara1",
+      "id": 7
+    },
+    {
+      "nombreUsuario": "Bmillcent.alumno",
+      "contrasenaActual": "barbara",
+      "nuevaContrasena": "barbara1",
+      "id": 8
+    },
+    {
+      "nombreUsuario": "Amontana.alumno",
+      "contrasenaActual": "antonio",
+      "nuevaContrasena": "antonio",
+      "id": 9
+    },
+    {
+      "nombreUsuario": "Amontana.alumno",
+      "contrasenaActual": "antonio",
+      "nuevaContrasena": "antonio1",
+      "id": 10
+    }
+  ],
+  "profesor": [
+    {
+      "id": 1,
+      "Nombres": "Bender doblador",
+      "Apellidos": "Rodrigez",
+      "Contrasena": "bender",
+      "usuario": "Brodrigez.profesor",
+      "seccion": "001D",
+      "asignaturas": [
+        {
+          "id": 1,
+          "Nombre": "Estadistica descriptiva",
+          "Sigla": "EDS001D",
+          "Seccion": "001D"
+        },
+        {
+          "id": 4,
+          "Nombre": "Estadistica descriptiva",
+          "Sigla": "EDS001D",
+          "Seccion": "002D"
+        },
+        {
+          "id": 6,
+          "Nombre": "Estadistica descriptiva",
+          "Sigla": "EDS001D",
+          "Seccion": "003D"
+        }
+      ],
+      "Role": "profesor"
+    },
+    {
+      "id": 2,
+      "Nombres": "Samuel",
+      "Apellidos": "Oak",
+      "Contrasena": "Samuel",
+      "usuario": "Soak.profesor",
+      "seccion": "002D",
+      "asignaturas": [
+        {
+          "id": 2,
+          "Nombre": "Programacion de aplicaciones moviles",
+          "Sigla": "PRW002D",
+          "Seccion": "001D"
+        },
+        {
+          "id": 4,
+          "Nombre": "Programacion de aplicaciones moviles",
+          "Sigla": "PRW002D",
+          "Seccion": "002D"
+        },
+        {
+          "id": 1,
+          "Nombre": "Programacion de aplicaciones moviles",
+          "Sigla": "PRW002D",
+          "Seccion": "003D"
+        }
+      ],
+      "Role": "profesor"
+    },
+    {
+      "id": 3,
+      "Nombres": "Oscar",
+      "Apellidos": "Meza",
+      "Contrasena": "oscar",
+      "usuario": "Omeza.profesor",
+      "seccion": "003D",
+      "asignaturas": [
+        {
+          "id": 3,
+          "Nombre": "Ciberseguridad",
+          "Sigla": "CS003D",
+          "Seccion": "001D"
+        },
+        {
+          "id": 6,
+          "Nombre": "Ciberseguridad",
+          "Sigla": "CS003D",
+          "Seccion": "002D"
+        },
+        {
+          "id": 1,
+          "Nombre": "Ciberseguridad",
+          "Sigla": "CS003D",
+          "Seccion": "003D"
+        }
+      ],
+      "Role": "profesor"
+    },
+    {
+      "id": 4,
+      "Nombres": "Francisco Javier",
+      "Apellidos": "Enrique Morandé Peñafiel",
+      "Contrasena": "francisco",
+      "usuario": "Fenrique.profesor",
+      "seccion": "004D",
+      "asignaturas": [
+        {
+          "id": 4,
+          "Nombre": "Calidad de software",
+          "Sigla": "CDS006D",
+          "Seccion": "001D"
+        },
+        {
+          "id": 6,
+          "Nombre": "Calidad de software",
+          "Sigla": "CDS006D",
+          "Seccion": "002D"
+        },
+        {
+          "id": 1,
+          "Nombre": "Calidad de software",
+          "Sigla": "CDS006D",
+          "Seccion": "003D"
+        }
+      ],
+      "Role": "profesor"
+    },
+    {
+      "id": 5,
+      "Nombres": "Patricia Umerinda",
+      "Apellidos": "Cofré",
+      "Contrasena": "patricia",
+      "usuario": "Pcofre.profesor",
+      "seccion": "005D",
+      "asignaturas": [
+        {
+          "id": 5,
+          "Nombre": "Formacion Cristiana",
+          "Sigla": "PFC005D",
+          "Seccion": "001D"
+        },
+        {
+          "id": 2,
+          "Nombre": "Formacion Cristiana",
+          "Sigla": "PFC005D",
+          "Seccion": "002D"
+        },
+        {
+          "id": 6,
+          "Nombre": "Formacion Cristiana",
+          "Sigla": "PFC005D",
+          "Seccion": "003D"
+        }
+      ],
+      "Role": "profesor"
+    },
+    {
+      "id": 6,
+      "Nombres": "Ellie",
+      "Apellidos": "Williams",
+      "Contrasena": "ellie",
+      "usuario": "Ewilliams.profesor",
+      "seccion": "006D",
+      "asignaturas": [
+        {
+          "id": 6,
+          "Nombre": "Programacion web",
+          "Sigla": "CDS006D",
+          "Seccion": "001D"
+        },
+        {
+          "id": 1,
+          "Nombre": "Programacion web",
+          "Sigla": "CDS006D",
+          "Seccion": "002D"
+        },
+        {
+          "id": 3,
+          "Nombre": "Programacion web",
+          "Sigla": "CDS006D",
+          "Seccion": "003D"
+        }
+      ],
+      "Role": "profesor"
+    }
+  ],
+  "Asignaturas": [
+    {
+      "id": 1,
+      "Nombre": "Estadistica descriptiva",
+      "Sigla": "EDS001D",
+      "Seccion": "001D"
+    },
+    {
+      "id": 2,
+      "Nombre": "Programacion web",
+      "Sigla": "PRW002D",
+      "Seccion": "002D"
+    },
+    {
+      "id": 3,
+      "Nombre": "Ciberseguridad",
+      "Sigla": "CS003D",
+      "Seccion": "003D"
+    },
+    {
+      "id": 4,
+      "Nombre": "Programacion de aplicaciones moviles",
+      "Sigla": "PAM004D",
+      "Seccion": "004D"
+    },
+    {
+      "id": 5,
+      "Nombre": "Formacion Cristiana",
+      "Sigla": "PFC005D",
+      "Seccion": "005D"
+    },
+    {
+      "id": 6,
+      "Nombre": "Calidad de software",
+      "Sigla": "CDS006D",
+      "Seccion": "006D"
+    }
+  ]
+}
